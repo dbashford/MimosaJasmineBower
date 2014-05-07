@@ -27,6 +27,7 @@ what
 
 # Output folder
 /public
+/www
 /dist
 /.mimosa/require/tracking.json
 
